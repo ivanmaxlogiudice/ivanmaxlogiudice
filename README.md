@@ -1,4 +1,4 @@
-# Hello, I'm <a href="https://www.linkedin.com/in/ivanmaxlogiudice" target="_blank">Iván M. Lo Giudice</a> 👋 <br> <b>Full Stack Developer 🚀</b>
+# Hello, I'm [Iván M. Lo Giudice](https://www.linkedin.com/in/ivanmaxlogiudice){:target="_blank"} 👋 <br> <b>Full Stack Developer 🚀</b>
 
 ## About Me
 I'm a Full stack developer who likes to solve problems and try to be better every day.
